@@ -1,2 +1,6 @@
 # MovieLand
-REACTJS Movie Search 
+REACTJS - Movie Search App
+
+How to run it?
+<br>
+npm start
